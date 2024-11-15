@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C57831E9-AF6A-2BFD-0CBE-6AAE26FE7BE6}</ProjectGuid>
+    <ProjectGuid>{95931FA3-93A4-AF72-CF33-9688690D6B0B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -61,15 +61,18 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2023.2.2f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Program\Player\PlayerMainSystem.cs" />
+    <Compile Include="Assets\Program\Bullet.cs" />
     <Compile Include="Assets\Program\GameInfomationUi.cs" />
-    <Compile Include="Assets\Program\PlayerMove.cs" />
+    <Compile Include="Assets\Program\Player\PlayerMove.cs" />
     <Compile Include="Assets\Program\AnimationTest.cs" />
-    <Compile Include="Assets\Program\PlayerMainSystem.cs" />
-    <Compile Include="Assets\Program\PlayerAnimation.cs" />
     <Compile Include="Assets\Settings\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Program\GameManager.cs" />
     <Compile Include="Assets\Program\Enemy.cs" />
+    <Compile Include="Assets\Program\Player\PlayerAnimation.cs" />
+    <Compile Include="Assets\Program\EnemyShooter.cs" />
     <Compile Include="Assets\Program\EnemyAssault.cs" />
+    <Compile Include="Assets\Program\Player\PlayerAttack.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

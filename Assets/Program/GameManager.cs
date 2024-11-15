@@ -11,9 +11,11 @@ public class GameManager : MonoBehaviour
     [SerializeField] private float currentStartTime;
     [SerializeField] private float startTimeLimit;
     [SerializeField] GameInfomationUi infomationUi;
+    [SerializeField] PlayerMainSystem player;
     void Start()
     {
         isGame = true;
+        player.Initialize(GameOver);
     }
 
     void Update()
@@ -50,6 +52,7 @@ public class GameManager : MonoBehaviour
 
     private void GameOver()
     {
+        infomationUi.SetGameOver();
         isGame = false;
     }
 }

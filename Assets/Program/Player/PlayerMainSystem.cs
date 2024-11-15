@@ -6,17 +6,13 @@ using UnityEngine.UI;
 
 public class PlayerMainSystem : MonoBehaviour
 {
-    [SerializeField] Action GameOver;
+    [SerializeField] Action gameOver;
     [SerializeField] PlayerAnimation anime;
     [SerializeField] PlayerMove move;
+    [SerializeField] PlayerAttack attack;
     [SerializeField] private int hp = 3;
     [SerializeField] private int currentHp;
     [SerializeField] private Text hpText;
-    void Start()
-    {
-        currentHp = hp;
-        hpText.text = "HP:" + currentHp.ToString() + "/" + hp;
-    }
     void Update()
     {
         if (GameManager.isGame)
@@ -34,10 +30,21 @@ public class PlayerMainSystem : MonoBehaviour
             {
                 anime.SetMoveAnime(0);
             }
+            if (Input.GetMouseButtonDown(0))
+            {
+                attack.Shot();
+            }
         }
+    }
+    public void Initialize(Action GameOver)
+    {
+        currentHp = hp;
+        hpText.text = "HP:" + currentHp.ToString() + "/" + hp;
+        gameOver = GameOver;
     }
     private void OnTriggerEnter(Collider other)
     {
+        Debug.Log(other);
         if(other.CompareTag("Enemy") || other.CompareTag("EnemyAttack"))
         {
             if (currentHp > 0)
@@ -47,7 +54,7 @@ public class PlayerMainSystem : MonoBehaviour
             }
             if (currentHp == 0)
             {
-                GameOver();
+                gameOver();
             }
         }
     }

@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95931FA3-93A4-AF72-CF33-9688690D6B0B}|Assembly-CSharp.csproj|c:\\users\\rhyth\\github\\github\\titleundefinedsidescrollaction\\assets\\program\\enemyshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95931FA3-93A4-AF72-CF33-9688690D6B0B}|Assembly-CSharp.csproj|solutionrelative:assets\\program\\enemyshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95931FA3-93A4-AF72-CF33-9688690D6B0B}|Assembly-CSharp.csproj|C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\assets\\program\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95931FA3-93A4-AF72-CF33-9688690D6B0B}|Assembly-CSharp.csproj|solutionrelative:assets\\program\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95931FA3-93A4-AF72-CF33-9688690D6B0B}|Assembly-CSharp.csproj|c:\\users\\rhyth\\github\\github\\titleundefinedsidescrollaction\\assets\\program\\player\\playermainsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95931FA3-93A4-AF72-CF33-9688690D6B0B}|Assembly-CSharp.csproj|solutionrelative:assets\\program\\player\\playermainsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95931FA3-93A4-AF72-CF33-9688690D6B0B}|Assembly-CSharp.csproj|C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\assets\\program\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95931FA3-93A4-AF72-CF33-9688690D6B0B}|Assembly-CSharp.csproj|solutionrelative:assets\\program\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95931FA3-93A4-AF72-CF33-9688690D6B0B}|Assembly-CSharp.csproj|C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\assets\\program\\animationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95931FA3-93A4-AF72-CF33-9688690D6B0B}|Assembly-CSharp.csproj|solutionrelative:assets\\program\\animationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95931FA3-93A4-AF72-CF33-9688690D6B0B}|Assembly-CSharp.csproj|C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\assets\\program\\player\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95931FA3-93A4-AF72-CF33-9688690D6B0B}|Assembly-CSharp.csproj|solutionrelative:assets\\program\\player\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95931FA3-93A4-AF72-CF33-9688690D6B0B}|Assembly-CSharp.csproj|C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\assets\\program\\gameinfomationui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95931FA3-93A4-AF72-CF33-9688690D6B0B}|Assembly-CSharp.csproj|solutionrelative:assets\\program\\gameinfomationui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95931FA3-93A4-AF72-CF33-9688690D6B0B}|Assembly-CSharp.csproj|C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\assets\\program\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95931FA3-93A4-AF72-CF33-9688690D6B0B}|Assembly-CSharp.csproj|solutionrelative:assets\\program\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyShooter.cs",
+              "DocumentMoniker": "C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\Assets\\Program\\EnemyShooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Program\\EnemyShooter.cs",
+              "ToolTip": "C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\Assets\\Program\\EnemyShooter.cs",
+              "RelativeToolTip": "Assets\\Program\\EnemyShooter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:04:35.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\Assets\\Program\\Player\\PlayerAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Program\\Player\\PlayerAnimation.cs",
+              "ToolTip": "C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\Assets\\Program\\Player\\PlayerAnimation.cs",
+              "RelativeToolTip": "Assets\\Program\\Player\\PlayerAnimation.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:36:18.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimationTest.cs",
+              "DocumentMoniker": "C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\Assets\\Program\\AnimationTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Program\\AnimationTest.cs",
+              "ToolTip": "C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\Assets\\Program\\AnimationTest.cs",
+              "RelativeToolTip": "Assets\\Program\\AnimationTest.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:36:12.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\Assets\\Program\\Player\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Program\\Player\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\Assets\\Program\\Player\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Program\\Player\\PlayerAttack.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:57:31.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\Assets\\Program\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Program\\Bullet.cs",
+              "ToolTip": "C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\Assets\\Program\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Program\\Bullet.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwEAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:47:17.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMainSystem.cs",
+              "DocumentMoniker": "C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\Assets\\Program\\Player\\PlayerMainSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Program\\Player\\PlayerMainSystem.cs",
+              "ToolTip": "C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\Assets\\Program\\Player\\PlayerMainSystem.cs",
+              "RelativeToolTip": "Assets\\Program\\Player\\PlayerMainSystem.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwCAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:45:19.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameInfomationUi.cs",
+              "DocumentMoniker": "C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\Assets\\Program\\GameInfomationUi.cs",
+              "RelativeDocumentMoniker": "Assets\\Program\\GameInfomationUi.cs",
+              "ToolTip": "C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\Assets\\Program\\GameInfomationUi.cs",
+              "RelativeToolTip": "Assets\\Program\\GameInfomationUi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:32:55.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\Assets\\Program\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Program\\GameManager.cs",
+              "ToolTip": "C:\\Users\\rhyth\\Github\\GitHub\\TitleUndefinedSideScrollAction\\Assets\\Program\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Program\\GameManager.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:29:05.071Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
